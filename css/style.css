@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
 #welcome-section{
 height: max-content;
+=======
+body {
+  background-color: #fff;
+}
+
+@media (min-width: 130em) and (max-width: 180em) {
+  body {
+    background-color: purple;
+  }
+>>>>>>> Stashed changes
 }
